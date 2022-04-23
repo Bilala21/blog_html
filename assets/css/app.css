@@ -29,6 +29,16 @@
 p {
     font-size: .9rem !important;
 }
+.edit__post{
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+}
+.c-pointer{
+    cursor: pointer;
+}
 
 @media (max-width: 992px) {
 
