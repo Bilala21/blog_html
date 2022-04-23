@@ -1,0 +1,19 @@
+.app-menu{
+    height: 70px;
+}
+.form-style{
+    max-width: 350px;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.app__forms{
+    background-image: url(../images/form-background-images.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 89.30vh;
+    overflow: hidden;
+}
+.fs-7{
+    font-size: .8rem;
+}
